@@ -1,4 +1,4 @@
-# Ultimate-Genetic-Algorithm-with-Python-
+# Ultimate Genetic Algorithm with Python
 Ultimate Genetic Algorithm with Python, published by Orange, AVA®
 
 ![PyGAD](https://img.shields.io/badge/PyGAD-FF6F00?style=for-the-badge)
